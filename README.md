@@ -29,6 +29,7 @@
     <ol>
         <li>Visit <a href="https://www.virustotal.com/gui/join-us">VirusTotal</a> and sign up for an account or log in if you already have one.</li>
         <li>Once logged in, navigate to your profile settings to find the API Key section.</li>
+        <img src="https://storage.googleapis.com/vtdocresources/guides/api/apikey_20231027.png" alt="API key">
         <li>Copy your API key. This key allows the IOCScanner to query VirusTotal's databases for IOC analysis.</li>
     </ol>
     <h3>Configuring Your API Key with IOCScanner</h3>
